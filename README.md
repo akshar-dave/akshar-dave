@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @akshar-dave
+![hello!](hello.jpeg "Hello!")
+
+- 👋 I’m @akshar-dave
 - 👀 I’m interested in react components!
 - 🌱 I’m currently learning React and Ruby.
 - 💞️ I’m looking to collaborate on frontend design and development.
