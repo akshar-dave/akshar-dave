@@ -21,5 +21,5 @@ const currentHour = new Date().getHours();
 
             console.log(`%c${greeting}, inspector \n`, "font-size: 28px; font-family: Inter; font-weight: 600");
 
-            console.log("%cThe developer seems to be Akshar Dave.🔍 \nLast spotted at this site: https://akshar-dave.web.app/ \n\n\n\n\n\n\n\n\n\n\n", "font-size: 16px; font-family: Inter; font-weight: 400");
+            console.log("%cLooks like the developer is Akshar Dave.🔍 \nLast spotted at this site: https://akshar-dave.web.app/ \n\n\n\n\n\n\n\n\n\n\n", "font-size: 16px; font-family: Inter; font-weight: 400");
         }, 1000);
