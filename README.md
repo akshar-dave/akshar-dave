@@ -1,7 +1,7 @@
 ![hello!](hello.jpeg "Hello!")
 
 - 👋 I’m Akshar Dave
-- 👀 I’m interested in react components and gsap animations!
+- 👀 I’m interested in interface interactions and animations.
 - 🌱 I’m currently learning GatsbyJS, a beautiful thing built on top of React.
 - 💞️ I’m looking to collaborate on frontend design and development.
 - 📫 How to reach me: write ✍️ to hello@akshardave.com
